@@ -16,8 +16,9 @@ const Contenedor = styled.div`
   }
 `
 const Imagen = styled.img`
-  max-width: 400px;
-  width: 80%;
+  max-width: 1000px;
+  width: 100%;
+  height: 100%;
   margin: 100px auto 0 auto;
   display: block;
 `
